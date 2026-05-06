@@ -4,7 +4,7 @@ An end-to-end time series project comparing classical and modern
 forecasting methods on airline passenger data.
 
 ## 🔗 Live Demo
-[Click here to view the live dashboard](https://your-link.streamlit.app)
+[Click here to view the live dashboard](https://time-series-forecasting-wxcatde8i66yaanjgawkpy.streamlit.app/)
 
 ## 📌 Project Overview
 This project demonstrates four different forecasting approaches:
