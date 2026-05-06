@@ -2,4 +2,3 @@ plotly
 matplotlib
 statsmodels
 prophet
-tensorflow
